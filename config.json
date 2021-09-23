@@ -1,0 +1,4 @@
+{
+    "port":7171,
+    "clinicUrls": "https://storage.googleapis.com/scratchpay-code-challenge/dental-clinics.json,https://storage.googleapis.com/scratchpay-code-challenge/vet-clinics.json"
+}
